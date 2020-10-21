@@ -9,8 +9,8 @@ The model has an amazing accuracy of 98% and has been deployed using Streamlit.
 The whole project is written in Python3
 
 ## Dependencies 
-Fast.ai (version : 1.0.61 )
-Numpy
-Pytorch (version : 1.4.0 )
-Pickle (version : 4.0 )
-Streamlit (version 0.69.1)
+Fast.ai (version : 1.0.61 ) \
+Numpy \
+Pytorch (version : 1.4.0 ) \
+Pickle (version : 4.0 ) \
+Streamlit (version 0.69.1) \
