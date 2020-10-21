@@ -1,7 +1,7 @@
 # Mediclada
 
 ## Overview
-Mediclada is a web app for predicting skin diseases in rural parts of India where the access to Healthcare Services is limited. \
+Mediclada is a web app for predicting skin diseases particularly to help rural citizens of India who have limited access to Healthcare Services. \
 For now it can predict upto 28 most commonly occuring skin diseases in rural India.\
 Built with simplicity in mind, Mediclada uses resnet34 with the fast.ai library and is trained for 100 epochs on a custom image dataset of 28 different classes.
 The model has an amazing accuracy of 98% and has been deployed using Streamlit.
