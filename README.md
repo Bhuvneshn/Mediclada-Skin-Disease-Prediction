@@ -6,6 +6,8 @@ limited access to Healthcare Services. For now it can predict upto 28 most commo
 Built with simplicity in mind, Mediclada uses resnet34 with the fast.ai library and is trained for 100 epochs on a custom image \
 dataset of 28 different classes. The model has an amazing accuracy of 98% and has been deployed using Streamlit.
 
+Link to the custom(self-made) dataset : https://www.dropbox.com/s/m8t8w3kpeq7urm6/Dataset.zip?dl=0
+
 ## Language
 The whole project is written in Python3
 
@@ -18,8 +20,8 @@ Streamlit (version 0.69.1)
 
 ## Installation and Usage
 
-To run the whole training process, first install all the dependencies and the dataset. Mention the path of the dataset  \
-in the `path = Path('C:/Dataset')` cell and run all the remaining cells to complete the training. Don't forget to save the  \
+To run the whole training process, first install all the dependencies and the dataset (https://www.dropbox.com/s/m8t8w3kpeq7urm6/Dataset.zip?dl=0). 
+Mention the path of the dataset in the `path = Path('C:/Dataset')` cell and run all the remaining cells to complete the training. Don't forget to save the  \
 model in the end. \
 
 You can directly download the weights from this link (https://www.dropbox.com/s/dztcmi4x82m0xq1/export.pkl?dl=0) and run the code \
