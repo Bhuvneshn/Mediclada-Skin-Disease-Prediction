@@ -22,3 +22,12 @@ for the Web App.
 
 ## Working
 ![](walkthrough.gif)
+
+Go to the website and upload an image (the option of clicking pictures is also available on smartphones). /
+The Model then gives the Prediction for the disease in the uploaded image along with the common symptoms of the disease.
+
+
+## Disclaimer
+1) The Images must be in .jpg or .jpeg format. /
+2) The prediction may not be 100% accurate. Please consult a doctor for further information before taking any medication.
+3) Attaching a faulty/unclear image may result in wrong prediction or no prediction at all.
