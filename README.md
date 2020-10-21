@@ -24,7 +24,7 @@ model in the end. \
 
 You can directly download the weights from this link (https://www.dropbox.com/s/dztcmi4x82m0xq1/export.pkl?dl=0) and run the code \
 for the Web App or use the model you saved after training. Mention the path of the downloaded weights in the `learn = load_learner('C:/weights-file')` \
-and run the Web App code. 
+and run the Web App code.
 
 After running the Web App code, open the Anaconda Command Prompt and write `(base) C:\Users\user>streamlit run app.py` to run the  \
 Web App on your local host.
