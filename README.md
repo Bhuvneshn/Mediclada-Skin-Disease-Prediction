@@ -13,4 +13,4 @@ Fast.ai (version : 1.0.61 ) \
 Numpy \
 Pytorch (version : 1.4.0 ) \
 Pickle (version : 4.0 ) \
-Streamlit (version 0.69.1) \
+Streamlit (version 0.69.1) 
