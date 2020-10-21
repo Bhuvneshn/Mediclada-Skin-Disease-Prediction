@@ -24,11 +24,11 @@ this link(https://www.dropbox.com/s/dztcmi4x82m0xq1/export.pkl?dl=0) and run the
 ![](walkthrough.gif)
 
 Go to the website and upload an image (the option of clicking pictures is also available on smartphones). \
-The Model then gives the Disease Prediction along with the common symptoms of the disease.
+The Model then provides the Disease Prediction along with the common symptoms of the disease.
 
 
 ## Disclaimer
 1) The Images must be in .jpg or .jpeg format. 
 2) The prediction may not be 100% accurate. Please consult a doctor for further information before taking any medication. 
 3) Attaching a faulty/unclear image may result in wrong prediction or no prediction at all.
-4) The files will be updated as more and more diseases get added
+4) The files will be updated as more and more diseases get added.
