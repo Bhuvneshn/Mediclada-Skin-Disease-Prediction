@@ -27,6 +27,6 @@ The Model then gives the Disease Prediction along with the common symptoms of th
 
 
 ## Disclaimer
-1) The Images must be in .jpg or .jpeg format. \
+1) The Images must be in .jpg or .jpeg format. 
 2) The prediction may not be 100% accurate. Please consult a doctor for further information before taking any medication. 
 3) Attaching a faulty/unclear image may result in wrong prediction or no prediction at all.
