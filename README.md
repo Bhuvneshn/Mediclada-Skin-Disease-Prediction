@@ -16,9 +16,8 @@ Pickle (version : 4.0 ) \
 Streamlit (version 0.69.1) 
 
 ## Installation
-Although the training file is uploaded in this repo, you can directly download the weights \
-from this link(https://www.dropbox.com/s/dztcmi4x82m0xq1/export.pkl?dl=0) and run the code \
-for the Web App.
+Although the training file is uploaded in this repo, you can directly download the weights from \
+this link(https://www.dropbox.com/s/dztcmi4x82m0xq1/export.pkl?dl=0) and run the code for the Web App.
 
 ## Working
 ![](walkthrough.gif)
