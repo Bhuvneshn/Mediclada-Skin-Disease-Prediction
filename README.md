@@ -16,18 +16,18 @@ Pickle (version : 4.0 ) \
 Streamlit (version 0.69.1) 
 
 ## Installation
-Although the training file is uploaded in this repo, you can directly download the weights /
-from this link(https://www.dropbox.com/s/dztcmi4x82m0xq1/export.pkl?dl=0) and run the code /
+Although the training file is uploaded in this repo, you can directly download the weights \
+from this link(https://www.dropbox.com/s/dztcmi4x82m0xq1/export.pkl?dl=0) and run the code \
 for the Web App.
 
 ## Working
 ![](walkthrough.gif)
 
-Go to the website and upload an image (the option of clicking pictures is also available on smartphones). /
+Go to the website and upload an image (the option of clicking pictures is also available on smartphones). \
 The Model then gives the Prediction for the disease in the uploaded image along with the common symptoms of the disease.
 
 
 ## Disclaimer
-1) The Images must be in .jpg or .jpeg format. /
-2) The prediction may not be 100% accurate. Please consult a doctor for further information before taking any medication.
+1) The Images must be in .jpg or .jpeg format. \
+2) The prediction may not be 100% accurate. Please consult a doctor for further information before taking any medication. \
 3) Attaching a faulty/unclear image may result in wrong prediction or no prediction at all.
