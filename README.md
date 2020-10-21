@@ -21,3 +21,4 @@ from this link(https://www.dropbox.com/s/dztcmi4x82m0xq1/export.pkl?dl=0) and ru
 for the Web App.
 
 ## Working
+![](walkthrough.gif)
