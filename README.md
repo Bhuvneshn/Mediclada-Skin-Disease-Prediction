@@ -6,7 +6,7 @@ limited access to Healthcare Services. For now it can predict upto 28 most commo
 Built with simplicity in mind, Mediclada uses resnet34 with the fast.ai library and is trained for 100 epochs on a custom image  
 dataset of 28 different classes. The model has an amazing accuracy of 98% and has been deployed using Streamlit.
 
-Link to the custom(self-made) dataset : https://www.dropbox.com/s/m8t8w3kpeq7urm6/Dataset.zip?dl=0  \
+Link to the custom(self-made) dataset : https://www.dropbox.com/s/agi9xn4vvokvkak/Dataset.zip?dl=0  \
 Link to the Trained weights file : https://www.dropbox.com/s/dztcmi4x82m0xq1/export.pkl?dl=0
 
 ## Language
